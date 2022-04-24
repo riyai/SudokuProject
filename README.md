@@ -1,3 +1,4 @@
 # SudokuProject
-Sudoku based on backtracking algo
-Go to Sudokuu.cpp to see the code
+Sudoku with adjustable size.
+Run the code to get a randomised sudoku query with 0 as the empty cell.
+The code uses Backtracking algorithm to check the solution for the grid.
